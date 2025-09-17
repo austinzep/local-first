@@ -14,3 +14,7 @@ knitr::opts_chunk$set(echo = TRUE)
 I've been directed to add some text.
 
 Here is that text.
+
+I'm adding some additional text to check the version history.
+
+Here is that text.
