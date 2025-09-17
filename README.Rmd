@@ -1,0 +1,16 @@
+---
+title: "README"
+author: "Austin Zepeda"
+date: "2025-09-17"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Add Some Text
+
+I've been directed to add some text.
+
+Here is that text.
