@@ -17,4 +17,4 @@ Here is that text.
 
 I'm adding some additional text to check the version history.
 
-Here is that text.
+Here is that text. Checking for merge conflict.
