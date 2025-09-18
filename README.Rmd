@@ -19,4 +19,6 @@ I'm adding some additional text to check the version history.
 
 Here is that text. Checking for merge conflict. It worked!
 
-Trying to pull from GitHub.
+Trying to pull from GitHub. It worked.
+
+I'm making these changes in branch2.
